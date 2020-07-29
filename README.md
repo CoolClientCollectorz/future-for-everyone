@@ -47,5 +47,6 @@ Player Assistance Mod and its obfuscation methods to accomplish our goals.
 - 4. Go to the installations tab in your launcher and click the 3 dots to the left of the forge installation then click edit
 - 5. On the next screen click 'more options' then add -noverify to the beginning of the JVM Arguments
 - 6. Click save, then run minecraft forge
+ ## message
 Message to 0x/Kalju: dmca if ur a pedophile, a registered sex offender, british and if you groom children
 ccc 4eva :^)
