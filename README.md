@@ -14,6 +14,8 @@
 
 > Future Player Assistance Mod: The player assistance utility mod not ideal for anarchy servers
 
+![GitHub All Releases](https://img.shields.io/github/downloads/coolclientcollectorz/future-for-everyone/total)
+
 Future for Everyone™ is a project aimed at providing Future Player Assistance Mod to everyone free of charge. We believe in free proprietary
 software and Open Source Software (OSS) license compliance. At Future for Everyone™, we have dedicated time to reverse engineering Future
 Player Assistance Mod and its obfuscation methods to accomplish our goals.
