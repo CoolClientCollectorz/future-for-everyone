@@ -3,7 +3,7 @@
  <br>
  <b>
   <a href="https://github.com/Crystallinqq">Crystallinqq</a> |
-  <a href="https://github.com/cookiedragon234">cookiedragon234/mastercooker</a> |
+  <a href="https://github.com/x4e">cookiedragon234/mastercooker</a> |
   <a href="https://github.com/Tigermouthbear">Tigermouthbear</a>
  </b>
  <br><br>
